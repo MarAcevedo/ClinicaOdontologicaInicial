@@ -1,0 +1,45 @@
+[2024-10-10 11:42:34] [INFO ][ClinicaDental:69] Los valores de la fila 1 son: 
+-ID: 1
+-Matricula: 5567
+-Nombre: Alicia
+-Apellido: Gonzales
+[2024-10-10 11:42:34] [INFO ][ClinicaDental:69] Los valores de la fila 2 son: 
+-ID: 2
+-Matricula: 6743
+-Nombre: Marcos
+-Apellido: Garcia
+[2024-10-10 11:42:34] [WARN ][ClinicaDental:91] Se actualizo el registro correspondiente al ID: 1
+[2024-10-10 11:42:34] [WARN ][ClinicaDental:104] Se elimino el registro con el ID = 2
+[2024-10-10 11:42:34] [INFO ][ClinicaDental:139] Los datos actualizados son: 
+-ID: 1
+-Matricula: 5567
+-Nombre: Vanina
+-Apellido: Gonzales
+[2024-10-10 11:42:34] [INFO ][ClinicaDental:177] Resultado despues de borrar el id=2 de su base de datos: 
+-ID: 1
+-Matricula: 5567
+-Nombre: Vanina
+-Apellido: Gonzales
+[2024-10-10 11:45:51] [INFO ][ClinicaDental:69] Los valores de la fila 1 son: 
+-ID: 1
+-Matricula: 5567
+-Nombre: Alicia
+-Apellido: Gonzales
+[2024-10-10 11:45:51] [INFO ][ClinicaDental:69] Los valores de la fila 2 son: 
+-ID: 2
+-Matricula: 6743
+-Nombre: Marcos
+-Apellido: Garcia
+[2024-10-10 11:45:51] [WARN ][ClinicaDental:91] Se actualizo el registro correspondiente al ID: 1
+[2024-10-10 11:45:51] [WARN ][ClinicaDental:104] Se elimino el registro con el ID = 2
+[2024-10-10 11:45:51] [ERROR][ClinicaDental:112] / by zero
+[2024-10-10 11:45:51] [INFO ][ClinicaDental:141] Los datos actualizados son: 
+-ID: 1
+-Matricula: 5567
+-Nombre: Vanina
+-Apellido: Gonzales
+[2024-10-10 11:45:51] [INFO ][ClinicaDental:179] Resultado despues de borrar el id=2 de su base de datos: 
+-ID: 1
+-Matricula: 5567
+-Nombre: Vanina
+-Apellido: Gonzales
